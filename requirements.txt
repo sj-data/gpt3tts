@@ -1,0 +1,3 @@
+gTTs
+openai
+pydub
